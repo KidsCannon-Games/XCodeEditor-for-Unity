@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 using System.IO;
-using Json = MiniJSON;
 
 namespace UnityEditor.XCodeEditor 
 {
